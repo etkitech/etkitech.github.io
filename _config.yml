@@ -1,0 +1,19 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.html
+  - imprint.html
+  - dataprotection.html
+  - license.html
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      author: "etki ttn"
+      category: "website"
