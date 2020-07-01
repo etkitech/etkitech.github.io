@@ -11,9 +11,9 @@ include:
 defaults:
   -
     scope:
-      path: "projects"
+      path: ""
       type: "pages"
     values:
-      layout: "project"
+      layout: "default"
       author: "etki ttn"
       category: "website"
