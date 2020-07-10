@@ -69,9 +69,9 @@ Most of our communication on etki Turkish Tech Forum is happening in turkish lan
 
 Together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en) we have organized an online workshop series to study and learn modern web development: etki_JS Remote Code Camp.
 
-As technology stack the students will learn the most relevant and up-to-date technologies for modern web development, including React, 
+As technology stack the students will learn the most relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL. 
 
-In the etki_JS course we will run regular co-learning workshops for supporting the students' efforts on learning on the structured course material we have selected, where students can ask their questions on the material to experienced software engineers, or discuss, study with their peers.
+In the etki_JS course we will run regular co-learning workshops for supporting the students' solo-learning efforts on the structured course material we have selected, in which students can ask their questions on the material to experienced software engineers, or discuss, co-study with their peers.
 
 etki_JS courses will be self-paced, 100% free of charges, and will run fully remote.
 
@@ -119,7 +119,6 @@ Our [contact page](/site/contact).
 <br>
 
 ----
-
 # <a name="Code of Conduct" href="#code-of-conduct"> Code of Conduct </a>
 As community we follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/), which is based on the [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
 
