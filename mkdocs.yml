@@ -1,6 +1,6 @@
 site_name: etki Turkish Tech
 theme: united
-google_analytics: ['UA-169291387-2', 'etki.io']
+google_analytics: ['UA-169291387-2', 'auto']
 
 nav:
   - Home: 'index.md'
