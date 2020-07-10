@@ -113,9 +113,9 @@ We welcome and encourage you to join us on our social platforms.
 <br>
 
 ----
-# <a name="Contact us" href="/contact">	Contact us </a>
+# <a name="Contact us" href="#contact"> Contact us </a>
 
-Our [contact page](/contact).
+Our [contact page](/site/contact).
 <br>
 
 ----
