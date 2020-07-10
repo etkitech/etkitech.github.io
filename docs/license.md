@@ -1,7 +1,7 @@
 # License
 <HEAD></HEAD>
 
-    <p> This project is licensed under "Attribution-NonCommercial-NoDerivatives 4.0 International" https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode </p>
+    This project is licensed under "Attribution-NonCommercial-NoDerivatives 4.0 International" https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 [![](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)](https://creativecommons.org/)
 
