@@ -73,9 +73,9 @@ As technology stack the students will learn the most relevant and up-to-date tec
 
 In the etki_JS course we will run regular co-learning workshops for supporting the students' solo-learning efforts on the structured course material we have selected, in which students can ask their questions on the material to experienced software engineers, or discuss, co-study with their peers.
 
-etki_JS courses will be self-paced, 100% free of charges, and will run fully remote.
+etki_JS courses are self-paced, 100% free of charges, and will run fully remote.
 
-As course material we will follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material diligently for consequent months and finish the FullStackOpen program and deliver the projects in the course program, they will be presented an official completion certification from University of Helsinki. 
+As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material diligently for consequent months and finish the FullStackOpen program and deliver the projects in the course program, they will be presented an official completion certification from University of Helsinki. 
 
 Main goal of this course is to provide a free & safe online learning environment for the underrepresented and underprivileged people in technology field, and for the people who are looking into transitioning into technology area.
 
