@@ -1,0 +1,11 @@
+site_name: etki Turkish Tech
+theme: united
+google_analytics: ['UA-169291387-2', 'etki.io']
+
+nav:
+  - Home: 'index.md'
+  - Join us: 'join_us.md'
+  - Contact us: 'contact.md'
+  - Data Protection: 'dataprotection.md'
+  - Imprint: 'imprint.md'
+  - License: 'license.md'

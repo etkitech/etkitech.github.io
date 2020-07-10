@@ -1,16 +1,19 @@
----
-layout: default
-title: Imprint
----
+# Imprint
 <HTML>
-<HEAD/>
+<HEAD></HEAD>
 <BODY>
-<h1>Impressum</h1>
-<p><strong>Angaben gemäß § 5 TMG:</strong></p>
+## [Angaben gemäß § 5 TMG](#§5TMG)
 <p>wunderkosmos UG (haftungsbeschränkt)<br></p>
-<p><strong>Postanschrift:</strong><br>Factory Berlin HQ, Factory works GmbH, Rheinsberger Str. 76/77<br>10115 Berlin<br></p>
-<p><strong>Kontakt:</strong></p>
-<p>Telefon: +49 30 44310950<br>E-Mail: etkinetwork@gmail.com</p>
+## [Postanschrift](#address) 
+wunderkosmos UG (haftungsbeschränkt)
+<br>Factory Berlin HQ, Factory works GmbH
+<br>Rheinsberger Str. 76/77
+<br>10115 Berlin<br>
+## [Kontakt](#contact)</strong></p>
+<p> E-Mail: etkinetwork@gmail.com
+<br>
+Telefon: +49 30 44310950
+</p>
 <p><strong>Vertreten durch:</strong></p>
 <p>Hasan Oezdemir</p>
 <p><br><strong>Eingetragen am</strong></p>

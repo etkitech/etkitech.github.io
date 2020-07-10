@@ -1,16 +1,16 @@
----
-layout: default
-title: License
----
-This project is licensed under "Attribution-NonCommercial-NoDerivatives 4.0 International" https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+# License
+<HEAD></HEAD>
 
-[![](https://creativecommons.org/wp-content/themes/cc/images/cc.logo.white.svg)](https://creativecommons.org/)
+    <p> This project is licensed under "Attribution-NonCommercial-NoDerivatives 4.0 International" https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode </p>
+
+[![](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)](https://creativecommons.org/)
 
 Creative Commons Legal Code
 ===========================
 
-Attribution-NonCommercial-NoDerivatives 4.0 International
----------------------------------------------------------
+<br> 
+
+### Attribution-NonCommercial-NoDerivatives 4.0 International
 
 Official translations of this license are available [in other
 languages](#languages).
@@ -383,7 +383,7 @@ translations.
 
 [« Back to Commons Deed](./)
 
-[![cc.logo.white](https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_.png)](https://creativecommons.org/)
+[![](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)](https://creativecommons.org/)
 
 -   [Contact](https://creativecommons.org/about/contact/)
 -   [Privacy](https://creativecommons.org/privacy/)
@@ -398,7 +398,7 @@ Creative Commons\
 -   [info@creativecommons.org](mailto:info@creativecommons.org)
 -   [Frequently Asked Questions](https://creativecommons.org/faq)
 
-[**
+[** Creative Commons Attribution 4.0 International license
 **](https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International license")
 
 Except where otherwise
