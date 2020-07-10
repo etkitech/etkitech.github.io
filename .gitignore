@@ -1,2 +1,8 @@
 /.idea/*
-.idea/*
+/.idea/dictionaries/
+/.idea/.gitignore
+/.idea/etkittn.github.io.iml
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
