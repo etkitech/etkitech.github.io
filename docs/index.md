@@ -39,9 +39,9 @@ window.cookieconsent.initialise({
 
 # <a name="about" href="#about"> About us ‍</a>
 
-etki Turkish Tech is an online community of turkish speaking technologists abroad.
+etki Turkish Tech is an online community of turkish speaking technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
 
-Founded in 2016 with the name of _Turkish Tech Berlin_, etki Turkish Tech started as a local meetup group for exchanging and networking among the turkish tech community members in Berlin, Germany.
+Founded in 2016 with the name of _Turkish Tech Berlin_, we started as a local meetup group for exchanging and networking among the turkish tech people in Germany.
 
 Currently etki Turkish Tech is an international online community built for cooperation and exchange between turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
 
@@ -67,17 +67,19 @@ Most of our communication on etki Turkish Tech Forum is happening in turkish lan
 
 ## <a name="forum" href="#etki_JS">‍💻 etki_JS Remote Code Camp</a>
 
-Together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en) we have organized an online workshop series to study and learn modern web development: etki_JS Remote Code Camp.
+etki_JS Remote Code Camp is an online program to study, learn and dive deep into modern web development, which is organized by etki Turkish Tech community together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en).
 
-As technology stack the students will learn the most relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL. 
+As technology stack the students learn the most relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL. 
 
-In the etki_JS course we will run regular co-learning workshops for supporting the students' solo-learning efforts on the structured course material we have selected, in which students can ask their questions on the material to experienced software engineers, or discuss, co-study with their peers.
+In the etki_JS course we run regular co-learning workshops for supporting the students' solo-learning efforts on the structured course material we have selected, in which students can ask their questions on the material to experienced software engineers, or discuss, co-study with their peers.
 
 etki_JS courses are self-paced, 100% free of charges, and will run fully remote.
 
+Both intermediate developers who want to dive deep into web development and beginner students are well-served with our selection of learning material. 
+
 As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material diligently for consequent months and finish the FullStackOpen program and deliver the projects in the course program, they will be presented an official completion certification from University of Helsinki. 
 
-Main goal of this course is to provide a free & safe online learning environment for the underrepresented and underprivileged people in technology field, and for the people who are looking into transitioning into technology area.
+Our mentors are english or turkish speakers, students who speak english or turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into technology area.
 
 ######  [Join our coding workshops](https://bit.ly/etki_JS)
 <br>
