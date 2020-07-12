@@ -45,6 +45,7 @@ Founded in 2016 with the name of _Turkish Tech Berlin_, we started as a local me
 
 Currently etki Turkish Tech is an international online community built for cooperation and exchange between turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
 
+
 <br>
 
 ----
@@ -127,6 +128,7 @@ We welcome and encourage you to join us on our social platforms.
 # <a name="Contact us" href="#contact"> Contact us </a>
 
 Our [contact page](/site/contact).
+
 <br>
 
 ----
