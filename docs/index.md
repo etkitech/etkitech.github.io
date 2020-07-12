@@ -94,6 +94,7 @@ We organize tech meetups for a group of turkish speaking people and for all tech
 * ** Monthly networking &nbsp;: ** &nbsp; Monthly community gathering. 
 * ** Expert sessions &nbsp;: ** &nbsp; Workshops or talk sessions conducted by the experts in their fields.
 
+######  [Our meetups on Meetup.com](https://www.meetup.com/turkishtech)
 <br>
 
 ----
