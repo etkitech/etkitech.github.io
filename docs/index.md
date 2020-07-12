@@ -60,7 +60,9 @@ In our forum we are welcoming turkish speaking technologists from all countries 
 
 Most of our communication on etki Turkish Tech Forum is happening in turkish language, but we have also an english-only category where topics can be discussed in english language for enabling a communication interface.
 <br>
-######  [Join our forum (Pre-launch registration)](https://forms.gle/tUnV8e3FtAmoATu27)
+
+<a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-lg" id="special"> </i> &nbsp;Join our forum (Pre-launch registration)</a>
+
 <br>
 
 ----
@@ -80,8 +82,10 @@ Both intermediate developers who want to dive deep into web development and begi
 As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material diligently for consequent months and finish the FullStackOpen program and deliver the projects in the course program, they will be presented an official completion certification from University of Helsinki. 
 
 Our mentors are english or turkish speakers, students who speak english or turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into technology area.
+<br>
 
-######  [Join our coding workshops](https://bit.ly/etki_JS)
+<a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops</a>
+
 <br>
 
 ----
@@ -93,8 +97,10 @@ We organize tech meetups for a group of turkish speaking people and for all tech
 * ** HR events &nbsp;: ** &nbsp; Recruiting events in partnership with HR companies.
 * ** Monthly networking &nbsp;: ** &nbsp; Monthly community gathering. 
 * ** Expert sessions &nbsp;: ** &nbsp; Workshops or talk sessions conducted by the experts in their fields.
+<br>
 
-######  [Our meetups on Meetup.com](https://www.meetup.com/turkishtech)
+<a href="https://www.meetup.com/turkishtech" target="_blank"><i class="fab fa-meetup fa-lg" id="special"> </i> &nbsp;Our meetups on Meetup.com </a>
+
 <br>
 
 ----
