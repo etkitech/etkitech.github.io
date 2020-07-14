@@ -61,7 +61,7 @@ We are using the forum as a space for converging all our communication efforts i
 
 In our forum we are welcoming Turkish speaking technologists from all countries and specialities in the fields of technology and STEM (Science Technology Engineering Mathematics), where we meet, discuss and exchange value.
 
-Most of our communication on etki Forum is happening in Turkish language, but we have also an English-only category where topics can be discussed in English language for enabling a communication interface.
+Most of our communication on etki Forum is happening in Turkish language, but we also have an English-only category where topics can be discussed in English language for enabling a communication interface.
 <br>
 
 <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-lg" id="special"> </i> &nbsp;Join our forum (Pre-launch registration)</a>
@@ -84,9 +84,9 @@ Both intermediate developers who want to dive deep into web development and begi
 
 Our course is planned to be on-going. Duration of the learning program will depend on the individual student's knowledge level and their pace.
 
-As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material of ~100 hours diligently to finish the FullStackOpen program and deliver the course projects on top, they will be presented an official completion certification from University of Helsinki. 
+As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material of ~100 hours diligently to finish the FullStackOpen program and deliver the course projects on top, they will be presented with an official completion certification from University of Helsinki. 
 
-Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into technology area.
+Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into the technology area.
 <br>
 
 <a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops</a>
