@@ -39,11 +39,11 @@ window.cookieconsent.initialise({
 
 # <a name="about" href="#about"> About us ‍</a>
 
-etki Tech Network is an online community of turkish speaking and international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
+etki Tech Network is an online community of Turkish speaking and international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
 
-Founded in 2016, we started as a local meetup group for exchanging and networking among the turkish speaking and international tech people in Germany.
+Founded in 2016, we started as a local meetup group for exchanging and networking among the Turkish speaking and international tech people in Germany.
 
-Currently etki Tech Network is an international online community built for cooperation and exchange between turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
+Currently etki Tech Network is an international online community built for cooperation and exchange between Turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
 
 
 <br>
@@ -55,13 +55,13 @@ Currently etki Tech Network is an international online community built for coope
 
 ## <a name="forum" href="https://etki.discourse.group">💬 etki Forum</a>
 
-etki Forum is an open online platform for turkish speaking technologists abroad, enabling exchange about all things career and life abroad.
+etki Forum is an open online platform for Turkish speaking technologists abroad, enabling exchange about all things career and life abroad.
 
 We are using the forum as a space for converging all our communication efforts into one place. Our official announcements, our projects, workshops and business related special events are being conducted through the involvement of our forum.
 
-In our forum we are welcoming turkish speaking technologists from all countries and specialities in the fields of technology and STEM (Science Technology Engineering Mathematics), where we meet, discuss and exchange value.
+In our forum we are welcoming Turkish speaking technologists from all countries and specialities in the fields of technology and STEM (Science Technology Engineering Mathematics), where we meet, discuss and exchange value.
 
-Most of our communication on etki Forum is happening in turkish language, but we have also an english-only category where topics can be discussed in english language for enabling a communication interface.
+Most of our communication on etki Forum is happening in Turkish language, but we have also an English-only category where topics can be discussed in English language for enabling a communication interface.
 <br>
 
 <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-lg" id="special"> </i> &nbsp;Join our forum (Pre-launch registration)</a>
@@ -86,7 +86,7 @@ Our course is planned to be on-going. Duration of the learning program will depe
 
 As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material of ~100 hours diligently to finish the FullStackOpen program and deliver the course projects on top, they will be presented an official completion certification from University of Helsinki. 
 
-Our mentors are english or turkish speakers, students who speak english or turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into technology area.
+Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into technology area.
 <br>
 
 <a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops</a>
@@ -97,7 +97,7 @@ Our mentors are english or turkish speakers, students who speak english or turki
 
 ## <a name="Meetups" href="#meetups">🏙️ etki Tech Meetups</a>
 
-We organize tech meetups for a group of turkish speaking people and for all international tech enthusiasts based in Berlin, Germany. Our mission is fostering collaboration and exchange, reinforcing diversity and adding value to our city's technology ecosystems. We aim to conduct various productive events and workgroups in this context, in english and turkish languages. We conduct 3 main types of meetup events. 
+We organize tech meetups for Turkish speaking and international tech enthusiasts based in Berlin, Germany. Our mission is fostering collaboration and exchange, reinforcing diversity and adding value to our city's technology ecosystems. We aim to conduct various productive events and workgroups in this context, in English and Turkish languages. We conduct 3 main types of meetup events. 
 
 * ** HR events &nbsp;: ** &nbsp; Recruiting events in partnership with HR companies.
 * ** Monthly networking &nbsp;: ** &nbsp; Monthly community gathering. 
