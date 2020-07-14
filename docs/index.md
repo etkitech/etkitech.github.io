@@ -29,7 +29,7 @@ window.cookieconsent.initialise({
 <!-- Add cookie consent css & js -->
 
 <BODY>
-<a name="title" href="#about"><h1 style="text-align:center">etki Turkish Tech</h1></a>
+<a name="title" href="#about"><h1 style="text-align:center">etki Tech Network</h1></a>
 <hr style="width:50%;text-align:center">
 
   <div style = "border: 1px solid lightgrey;border-radius: 8px;padding:15px;font-weight: normal;vertical-align: middle; background-color: #e9ecef;">
@@ -39,11 +39,11 @@ window.cookieconsent.initialise({
 
 # <a name="about" href="#about"> About us ‍</a>
 
-etki Turkish Tech is an online community of turkish speaking technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
+etki Tech Network is an online community of turkish speaking and international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
 
-Founded in 2016 with the name of _Turkish Tech Berlin_, we started as a local meetup group for exchanging and networking among the turkish tech people in Germany.
+Founded in 2016, we started as a local meetup group for exchanging and networking among the turkish speaking and international tech people in Germany.
 
-Currently etki Turkish Tech is an international online community built for cooperation and exchange between turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
+Currently etki Tech Network is an international online community built for cooperation and exchange between turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
 
 
 <br>
@@ -53,15 +53,15 @@ Currently etki Turkish Tech is an international online community built for coope
 # <a name="about" href="#projects"> Our projects ‍</a>
 <br>
 
-## <a name="forum" href="https://etki.discourse.group">💬 etki Turkish Tech Forum</a>
+## <a name="forum" href="https://etki.discourse.group">💬 etki Forum</a>
 
-etki Turkish Tech Forum is an open online platform for turkish speaking technologists abroad, enabling exchange about all things career and life abroad.
+etki Forum is an open online platform for turkish speaking technologists abroad, enabling exchange about all things career and life abroad.
 
 We are using the forum as a space for converging all our communication efforts into one place. Our official announcements, our projects, workshops and business related special events are being conducted through the involvement of our forum.
 
 In our forum we are welcoming turkish speaking technologists from all countries and specialities in the fields of technology and STEM (Science Technology Engineering Mathematics), where we meet, discuss and exchange value.
 
-Most of our communication on etki Turkish Tech Forum is happening in turkish language, but we have also an english-only category where topics can be discussed in english language for enabling a communication interface.
+Most of our communication on etki Forum is happening in turkish language, but we have also an english-only category where topics can be discussed in english language for enabling a communication interface.
 <br>
 
 <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-lg" id="special"> </i> &nbsp;Join our forum (Pre-launch registration)</a>
@@ -72,7 +72,7 @@ Most of our communication on etki Turkish Tech Forum is happening in turkish lan
 
 ## <a name="forum" href="#etki_JS">‍💻 etki_JS Remote Code Camp</a>
 
-etki_JS Remote Code Camp is an online program to study, learn and dive deep into modern web development, which is organized by etki Turkish Tech community together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en).
+etki_JS Remote Code Camp is an online program to study, learn and dive deep into modern web development, which is organized by etki Tech Network community together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en).
 
 As technology stack the students learn the most relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL. 
 
@@ -95,9 +95,9 @@ Our mentors are english or turkish speakers, students who speak english or turki
 
 ----
 
-## <a name="Meetups" href="#meetups">🏙️ etki Turkish Tech Meetups</a>
+## <a name="Meetups" href="#meetups">🏙️ etki Tech Meetups</a>
 
-We organize tech meetups for a group of turkish speaking people and for all tech enthusiasts based in Berlin, Germany. Our mission is fostering collaboration and exchange, reinforcing diversity and adding value to our city's technology ecosystems. We aim to conduct various productive events and workgroups in this context, in english and turkish languages. We conduct 3 main types of meetup events. 
+We organize tech meetups for a group of turkish speaking people and for all international tech enthusiasts based in Berlin, Germany. Our mission is fostering collaboration and exchange, reinforcing diversity and adding value to our city's technology ecosystems. We aim to conduct various productive events and workgroups in this context, in english and turkish languages. We conduct 3 main types of meetup events. 
 
 * ** HR events &nbsp;: ** &nbsp; Recruiting events in partnership with HR companies.
 * ** Monthly networking &nbsp;: ** &nbsp; Monthly community gathering. 
@@ -114,13 +114,13 @@ We organize tech meetups for a group of turkish speaking people and for all tech
 We welcome and encourage you to join us on our social platforms.
 
   <div style = "display: flex;justify-content: space-between; border: 1px solid lightgrey;border-radius: 8px;padding:15px;font-weight: bolder;">
-    <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-3x" id="special"> </i> &nbsp;etki Turkish Tech Forum </a>
+    <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-3x" id="special"> </i> &nbsp;etki Forum </a>
     &emsp; &emsp;
     <a href="https://www.meetup.com/turkishtech" target="_blank"><i class="fab fa-meetup fa-3x" id="special"> </i> &nbsp;Meetups </a>
     &emsp; &emsp;
     <a href="https://www.linkedin.com/groups/13521204/" target="_blank"><i class="fab fa-linkedin fa-3x" id="special"> </i> &nbsp;LinkedIn </a>
     &emsp; &emsp;
-    <a href="https://www.twitter.com/etkiturkishtech" target="_blank"><i class="fab fa-twitter fa-3x" id="special"> </i> &nbsp;Twitter </a>
+    <a href="https://www.twitter.com/etkitech" target="_blank"><i class="fab fa-twitter fa-3x" id="special"> </i> &nbsp;Twitter </a>
     &emsp; &emsp;
   </div>
 
