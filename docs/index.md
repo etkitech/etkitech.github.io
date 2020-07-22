@@ -39,7 +39,7 @@ window.cookieconsent.initialise({
 
 # <a name="about" href="#about"> About us ‍</a>
 
-etki Tech Network is an online community of Turkish speaking and international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
+etki Tech Network is an online community of international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
 
 Founded in 2016, we started as a local meetup group for exchanging and networking among the Turkish speaking and international tech people in Germany.
 
