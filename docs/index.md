@@ -89,7 +89,7 @@ As course material we follow the open-source programs of University of Helsinki'
 Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into the technology area.
 <br>
 
-<a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops</a>
+<a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops (Applications currently closed for 2020, due to high demand)</a>
 
 <br>
 
