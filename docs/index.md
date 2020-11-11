@@ -36,6 +36,24 @@ window.cookieconsent.initialise({
   <a href="" style="font-weight: bolder">Translation statement : </a> &nbsp;Hoşgeldiniz! Sitemizin Türkçe çevirisini yakın zamanda ekleyeceğiz. Anlayışınız için teşekkür ederiz.  
 </div>
 
+# <a name="Join us" href="#join-us"> Join us</a>
+
+We welcome and encourage you to join us on our social platforms.
+
+  <div style = "display: flex;justify-content: space-between; border: 1px solid lightgrey;border-radius: 8px;padding:15px;font-weight: bolder;">
+    <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-3x" id="special"> </i> &nbsp;etki Forum </a>
+    &emsp; &emsp;
+    <a href="https://www.meetup.com/turkishtech" target="_blank"><i class="fab fa-meetup fa-3x" id="special"> </i> &nbsp;Meetups </a>
+    &emsp; &emsp;
+    <a href="https://www.linkedin.com/groups/13521204/" target="_blank"><i class="fab fa-linkedin fa-3x" id="special"> </i> &nbsp;LinkedIn </a>
+    &emsp; &emsp;
+    <a href="https://www.twitter.com/etkitech" target="_blank"><i class="fab fa-twitter fa-3x" id="special"> </i> &nbsp;Twitter </a>
+    &emsp; &emsp;
+  </div>
+
+<br>
+
+----
 
 # <a name="about" href="#about"> About us ‍</a>
 
@@ -109,24 +127,7 @@ We organize tech meetups for Turkish speaking and international tech enthusiasts
 <br>
 
 ----
-# <a name="Join us" href="#join-us"> Join us</a>
 
-We welcome and encourage you to join us on our social platforms.
-
-  <div style = "display: flex;justify-content: space-between; border: 1px solid lightgrey;border-radius: 8px;padding:15px;font-weight: bolder;">
-    <a href="https://forms.gle/tUnV8e3FtAmoATu27" target="_blank"><i class="fa fa-commenting-o fa-3x" id="special"> </i> &nbsp;etki Forum </a>
-    &emsp; &emsp;
-    <a href="https://www.meetup.com/turkishtech" target="_blank"><i class="fab fa-meetup fa-3x" id="special"> </i> &nbsp;Meetups </a>
-    &emsp; &emsp;
-    <a href="https://www.linkedin.com/groups/13521204/" target="_blank"><i class="fab fa-linkedin fa-3x" id="special"> </i> &nbsp;LinkedIn </a>
-    &emsp; &emsp;
-    <a href="https://www.twitter.com/etkitech" target="_blank"><i class="fab fa-twitter fa-3x" id="special"> </i> &nbsp;Twitter </a>
-    &emsp; &emsp;
-  </div>
-
-<br>
-
-----
 # <a name="Contact us" href="#contact"> Contact us </a>
 
 Our [contact page](/site/contact).
