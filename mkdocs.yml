@@ -1,6 +1,7 @@
 site_name: etki Tech Network
 theme: united
 google_analytics: ['UA-169291387-2', 'auto']
+#include: ['_redirects']
 
 nav:
   - Home: 'index.md'
