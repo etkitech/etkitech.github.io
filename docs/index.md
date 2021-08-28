@@ -32,9 +32,28 @@ window.cookieconsent.initialise({
 <a name="title" href="#about"><h1 style="text-align:center">etki Tech Network</h1></a>
 <hr style="width:50%;text-align:center">
 
-  <div style = "border: 1px solid lightgrey;border-radius: 8px;padding:15px;font-weight: normal;vertical-align: middle; background-color: #e9ecef;">
+<!--   
+<div style = "border: 1px solid lightgrey;border-radius: 8px;padding:15px;font-weight: normal;vertical-align: middle; background-color: #e9ecef;">
   <a href="" style="font-weight: bolder">Translation statement : </a> &nbsp;Hoşgeldiniz! Sitemizin Türkçe çevirisini yakın zamanda ekleyeceğiz. Anlayışınız için teşekkür ederiz.  
 </div>
+-->
+
+<br>
+
+----
+
+# <a name="about" href="#about"> About us ‍</a>
+
+etki Tech Network is an online community of international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
+
+Founded in 2016, we started as a local meetup group for exchanging and networking among the Turkish speaking and international tech people in Germany.
+
+Currently etki Tech Network is an international online community built for cooperation and exchange between Turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
+
+
+<br>
+
+----
 
 # <a name="Join us" href="#join-us"> Join us</a>
 
@@ -55,27 +74,13 @@ We welcome and encourage you to join us on our social platforms.
 
 ----
 
-# <a name="about" href="#about"> About us ‍</a>
-
-etki Tech Network is an online community of international technologists abroad. To describe it amusingly and genuinely, we are grassroots, ideology-free, bloat-free, organic and 100% independent.
-
-Founded in 2016, we started as a local meetup group for exchanging and networking among the Turkish speaking and international tech people in Germany.
-
-Currently etki Tech Network is an international online community built for cooperation and exchange between Turkish speaking tech experts with migration background, also including international technologists. Our mission is set to be enabling and driving exchange, diversity and inclusion in the technology scene.
-
-
-<br>
-
-----
-
 # <a name="about" href="#projects"> Our projects ‍</a>
-<br>
 
 ## <a name="forum" href="https://etki.discourse.group">💬 etki Forum</a>
 
-etki Forum is an open online platform for Turkish speaking technologists abroad, enabling exchange about all things career and life abroad.
+etki Forum is an open online platform for Turkish speaking technology professionals abroad, enabling a job posting plaform and to exchange about all things career and life abroad.
 
-We are using the forum as a space for converging all our communication efforts into one place. Our official announcements, our projects, workshops and business related special events are being conducted through the involvement of our forum.
+We are using the forum as a space converging all our career development and communication efforts into one place. Our job posts, official announcements, projects, workshops and business related events are being announced through the involvement of our forum.
 
 In our forum we are welcoming Turkish speaking technologists from all countries and specialities in the fields of technology and STEM (Science Technology Engineering Mathematics), where we meet, discuss and exchange value.
 
@@ -107,7 +112,7 @@ As course material we follow the open-source programs of University of Helsinki'
 Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into the technology area.
 <br>
 
-<a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops (Applications currently closed for 2020, due to high demand)</a>
+<a href="https://bit.ly/etki_JS" target="_blank"><i class="fas fa-laptop fa-lg" id="special"> </i> &nbsp;Join our coding workshops (Applications currently closed, due to high demand)</a>
 
 <br>
 
@@ -118,7 +123,7 @@ Our mentors are English or Turkish speakers, students who speak English or Turki
 We organize tech meetups for Turkish speaking and international tech enthusiasts based in Berlin, Germany. Our mission is fostering collaboration and exchange, reinforcing diversity and adding value to our city's technology ecosystems. We aim to conduct various productive events and workgroups in this context, in English and Turkish languages. We conduct 3 main types of meetup events. 
 
 * ** HR events &nbsp;: ** &nbsp; Recruiting events in partnership with HR companies.
-* ** Monthly networking &nbsp;: ** &nbsp; Monthly community gathering. 
+* ** Networking &nbsp;: ** &nbsp; Recurring community gatherings. 
 * ** Expert sessions &nbsp;: ** &nbsp; Workshops or talk sessions conducted by the experts in their fields.
 <br>
 

@@ -3,9 +3,9 @@
 <HEAD></HEAD>
 <BODY>
 ## [Angaben gemäß § 5 TMG](#§5TMG)
-<p>wunderkosmos UG (haftungsbeschränkt)<br></p>
+<br>
 ## [Postanschrift](#address) 
-wunderkosmos UG (haftungsbeschränkt)
+<br>Hasan Özdemir
 <br>Factory Berlin HQ, Factory works GmbH
 <br>Rheinsberger Str. 76/77
 <br>10115 Berlin<br>
@@ -15,11 +15,8 @@ wunderkosmos UG (haftungsbeschränkt)
 Telefon: +49 30 44310950
 </p>
 <p><strong>Vertreten durch:</strong></p>
-<p>Hasan Oezdemir</p>
-<p><br><strong>Eingetragen am</strong></p>
-<p>Amtsgericht Charlottenburg - Handelsregister - Hardenbergstr. 31 10623 Berlin <br>Vereinsregister: Amtsgerichtsplatz 1, 14057 Berlin<br>HRB 181127 B<br></p>
-<p><br><strong>Umsatzsteuer-Identifikationsnummer</strong></p>
-<p>DE310512596<br></p>
+<p>Hasan Özdemir</p>
+
 <p></p><p><br><strong>Urheberrechtliche Hinweise</strong></p>
 <p>This content and works on these pages are subject to German copyright law. The reproduction, modification, distribution and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator. Downloads and copies of these pages are only for private, non-commercial use.<br></p>
 
